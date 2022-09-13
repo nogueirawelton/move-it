@@ -1,0 +1,23 @@
+.homeContainer {
+  height: 100vh;
+  max-width: 992px;
+  margin-inline: auto;
+  padding: 2.5rem 2rem;
+
+  @media(max-width: 720px) {
+    padding: 1.5rem 1rem;
+  }
+
+  section {
+    margin-top: 10rem;
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6.25rem;
+    align-items: center;
+
+    @media (max-width: 1024px) {
+      grid-template-columns: auto;      
+    }
+  }
+}
