@@ -1,5 +1,5 @@
 <h1 align="center">
-  NpsCalc
+  MoveIt
 </h1>
 
 <p align="center">
@@ -11,21 +11,10 @@ Aplicação para cálculo de nps a partir de pesquisas feitas por email.
 
 ## ✨ Tecnologias
 
-- [ ] Node
+- [ ] React
 - [ ] Typescript
-- [ ] Express
-- [ ] Prisma
-- [ ] Yup
-- [ ] Jest
-- [ ] Supertest
-- [ ] NodeMailer
-
-## :hammer_and_wrench: Features
-
-- [ ] Criação de Usuários
-- [ ] Criação de Pesquisas
-- [ ] Envio de Email
-- [ ] Cálculo Nps
+- [ ] Next
+- [ ] Sass
 
 ## Executando o projeto
 
