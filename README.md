@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-Aplicação para cálculo de nps a partir de pesquisas feitas por email.
+Pomodoro game baseado em tarefas para subir de nível.
 
 ## ✨ Tecnologias
 
